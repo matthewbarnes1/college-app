@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Layout from "./Layouts/Layout"
 
@@ -6,20 +5,9 @@ function App() {
   return (
     <Layout>
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1> Welome to, Application Name </h1>
+        <p>Meet new friends, explore clubs, and see events around campus! </p>
+      {/* // TODO: Add carousel with current events around campus */}
     </div>
     </Layout>
   );
