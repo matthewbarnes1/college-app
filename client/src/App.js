@@ -1,6 +1,9 @@
 import './App.css';
 import Layout from "./Layouts/Layout"
 
+//* Integrate react router for navigation and user routing to different pages
+// * https://www.w3schools.com/react/react_router.asp
+
 function App() {
   return (
     <Layout>
