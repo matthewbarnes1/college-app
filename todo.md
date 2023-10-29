@@ -28,3 +28,8 @@
 - THis would be cool - have live chatstreams for each club/event
 - Ability to create DM to other students
 
+## Club Corner
+- Upon login/signup (or in profile), have the option to add/create a club on the site
+- This step needs human verification to ensure that the clubs being posted are legit
+- Club Corner is a place to explore clubs and any related club events 
+- 
