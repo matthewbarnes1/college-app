@@ -3,7 +3,9 @@ import Link from 'next/link';
 export default function Header(){
 return(
     <>
-    <h1><Link href="/">Home route</Link></h1>
+    <Link href="/">
+    <h1 className="font-semibold text-xl tracking-tight">Website Name</h1>
+    </Link>
     <ul>
         <li>
         <Link href="/Events">Events</Link>
