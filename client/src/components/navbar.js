@@ -5,7 +5,7 @@ function Navbar() {
         <ul>
             <li><a href="/homepage">Home</a></li>
             <li><a href="/clubCorner">Club corner</a></li>
-            <li><a href="/contact">Profile</a></li>
+            <li><a href="/Profile">Profile</a></li>
             {/* // TODO: add a link to the profile page */}
         </ul>
             </nav>
